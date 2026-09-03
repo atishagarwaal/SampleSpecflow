@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TechTalk.SpecFlow;
 
-namespace CalculatorApp.Steps
+namespace SampleSpecflow.Steps
 {
     [Binding]
     public class CalculatorSteps

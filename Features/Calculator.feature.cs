@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace CalculatorApp.Features
+namespace SampleSpecflow.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -65,7 +65,7 @@ namespace CalculatorApp.Features
             if (((testRunner.FeatureContext != null) 
                         && (testRunner.FeatureContext.FeatureInfo.Title != "Calculator")))
             {
-                global::CalculatorApp.Features.CalculatorFeature.FeatureSetup(null);
+                global::SampleSpecflow.Features.CalculatorFeature.FeatureSetup(null);
             }
         }
         
