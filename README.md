@@ -12,11 +12,11 @@ This repository contains:
 - Features/Calculator.feature — a SpecFlow Gherkin feature that describes the add-two-numbers scenario (5 + 3 = 8).
 - Steps/CalculatorSteps..cs — SpecFlow step definitions that call Calculator.Add and assert the result with MSTest.
 
-The project targets .NET 8.0 and uses SpecFlow with MSTest as the test runner. The project file (CalculatorApp.csproj) includes the SpecFlow MsTest packages and the Microsoft Test SDK packages required to build and run the feature-based tests.
+The project targets .NET 10.0 and uses SpecFlow with MSTest as the test runner. The project file (CalculatorApp.csproj) includes the SpecFlow MsTest packages and the Microsoft Test SDK packages required to build and run the feature-based tests.
 
 3. Prerequisites
 
-- .NET SDK 8.0 or later installed: https://dotnet.microsoft.com/
+- .NET SDK 10.0 or later installed: https://dotnet.microsoft.com/
 - A terminal / PowerShell / command prompt with `dotnet` available
 - (Optional) An IDE such as Visual Studio 2022+ or Visual Studio Code with C# support for a better editing and debugging experience
 
