@@ -1,8 +1,8 @@
-# CalculatorApp
+# SampleSpecflow
 
 1. Overview
 
-CalculatorApp is a minimal .NET console application that demonstrates a tiny Calculator class which can add two integers. It is intended as a learning/demo project showing how to write a small class, exercise it with SpecFlow feature files (Gherkin) and run the scenarios using MSTest.
+SampleSpecflow is a minimal .NET console application that demonstrates a tiny Calculator class which can add two integers. It is intended as a learning/demo project showing how to write a small class, exercise it with SpecFlow feature files (Gherkin) and run the scenarios using MSTest.
 
 2. Description
 
